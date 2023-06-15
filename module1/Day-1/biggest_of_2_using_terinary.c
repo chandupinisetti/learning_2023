@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
-void biggest_(int a, int b);
+void biggest(int a, int b);
 
 int main() {
     int a, b;
